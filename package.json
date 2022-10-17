@@ -10,5 +10,13 @@
     "bot"
   ],
   "author": "Winv",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winvdaking/bot-template-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/winvdaking/bot-template-js/issues"
+  },
+  "homepage": "https://github.com/winvdaking/bot-template-js#readme"
 }
