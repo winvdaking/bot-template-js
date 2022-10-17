@@ -1,0 +1,14 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "Template for bot discord using discord.js v14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Winv",
+  "license": "ISC"
+}
