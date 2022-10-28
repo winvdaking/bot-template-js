@@ -4,7 +4,7 @@
   "description": "Template for bot discord using discord.js v14",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node index.js"
   },
   "keywords": [
     "bot"
