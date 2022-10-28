@@ -2,7 +2,7 @@
 
 ### Configuration
 
-Vous devez ajouter le token de votre bot dans le ficher _.env_ et enlever l'extension _.exemple_ !
+Vous devez ajouter le token de votre bot dans le ficher _.env_ !
 
 ### Exécution des commandes NPM
 
